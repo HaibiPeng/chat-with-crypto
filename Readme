@@ -1,0 +1,4 @@
+文件夹中的AesCrypto.py中定义了一个AES类，可实现AES数据、文件及图片加解密
+RsaCrypto.py定义了一个RSA类，可实现RSA加解密以及公私钥的产生
+client1.py和client2.py代码重复，定义了一个客户端类，可以实现终端环境下的socket加密全双工通信
+testsocket.py、index.jpg和test.txt为测试所用文件
